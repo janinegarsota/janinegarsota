@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9b59b6"/>
+
 <div align="center">
 
 # Janine Garsota
@@ -29,15 +31,15 @@
 <div align="center">
 
 ### 📊 My Coding Activity
-<br>
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=janinegarsota&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=janinegarsota&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=janinegarsota&theme=nord_dark&utcOffset=8) |
-| :-: | :-: | :-: |
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=janinegarsota&theme=nord_dark" width="39%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=janinegarsota&theme=nord_dark" width="39%" />
+</p>
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=janinegarsota&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=janinegarsota&theme=nord)](https://git.io/streak-stats) |
-| :-: | :-: |
-  
-</div>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=janinegarsota&theme=nord_dark&utcOffset=8" width="39%" />
+</p>
 
 ---
 
@@ -71,14 +73,19 @@
 
 ---
 
-### 🌐 Connect with Me
-<br>
-
 <div align="center">
 
-  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:garsotajanine@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/janinegarsota)
-  
+### 🌐 Let's Connect
+
+*Always open to new opportunities, collaborations, and conversations.*
+<br><br>
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garsotajanine@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janinegarsota)
+
+---
+*Crafted with 🤍 by Janine Garsota*
+
 </div>
 
-<div align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9b59b6&height=100&section=footer"/>
