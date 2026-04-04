@@ -26,12 +26,12 @@
 ### 📊 My Coding Activity
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=janinegarsota&theme=midnight_purple" width="39%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=janinegarsota&theme=midnight_purple" width="39%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=janinegarsota&theme=midnight_purple" width="45%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=janinegarsota&theme=midnight_purple" width="45%" />
 </p>
 
 <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=janinegarsota&theme=midnight_purple" width="58%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=janinegarsota&theme=midnight_purple" width="90%" />
 
 </p>
 
