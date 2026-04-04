@@ -14,7 +14,7 @@
       <br>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://github.com/janinegarsota.png" width="250px" style="border-radius: 10px;" alt="Janine Garsota"/>
+      <img src="https://github.com/janinegarsota.png" width="70%" style="border-radius: 10px;" alt="Janine Garsota"/>
       <p align="center"><i>"I balance both artistic vision and functionality"</i></p>
     </td>
   </tr>
@@ -31,7 +31,8 @@
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=janinegarsota&theme=midnight_purple&utcOffset=8" width="39%" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=janinegarsota&theme=midnight_purple" width="58%" />
+
 </p>
 
 ---
