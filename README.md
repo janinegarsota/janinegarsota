@@ -1,11 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=9b59b6"/>
-
-<div align="center">
-
-# Janine Garsota
-### Front-End Web Developer | UI/UX Designer | CS Student
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,34&height=200&section=header&text=Janine%20Garsota&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20CS%20Student&descAlignY=55&descSize=18"/>
 
 <table border="0">
   <tr>
@@ -33,12 +26,12 @@
 ### 📊 My Coding Activity
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=janinegarsota&theme=nord_dark" width="39%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=janinegarsota&theme=nord_dark" width="39%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=janinegarsota&theme=midnight_purple" width="39%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=janinegarsota&theme=midnight_purple" width="39%" />
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=janinegarsota&theme=nord_dark&utcOffset=8" width="39%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=janinegarsota&theme=midnight_purple&utcOffset=8" width="39%" />
 </p>
 
 ---
@@ -84,8 +77,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janinegarsota)
 
 ---
-*Crafted with 🤍 by Janine Garsota*
+*Designed with 🤍 by Janine Garsota*
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9b59b6&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30,34&height=100&section=footer"/>
